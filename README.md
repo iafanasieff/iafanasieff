@@ -53,6 +53,9 @@ Lead Go developer with strong backend, search and distributed-systems background
 
 - Multiple awards; selected for extended mentorship and investor-backed development program.
 
+### Faculty of Applied Mathematics and Computer Science 
+**Jun 2026 - Present** | Belarusian State University, Minsk [bsu.by](https://bsu.by/)
+
 ---
 
 ## Awards
