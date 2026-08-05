@@ -39,10 +39,17 @@ Lead Go developer with strong backend, search and distributed-systems background
 - Designed DB schemas and implemented SQL migrations.
 
 ### Fullstack Developer, ML-Ops 
-**May 2026 – Present** | [Belinnovation.by](https://belinnovation.by) | Brest
+**May 2026 – Present** | [Belinnovation.by](https://belinnovation.by) | Hybrid/Brest
 
 - Developed C++/GO search engine paired with Python indexation alorithms for knowledge base management
 - Conducted researches on Medical knowledge to build comprehensive knowledge graph
+
+### Teamlead
+**Aug 2026 - Present** | [Lunorai.ru](https://lunorai.ru) | Remote / Moscow
+
+- Designed architecture for the entire PDF architecture processing service including high-load ML inference microservice
+- Designed database schemas 
+- Implemented robust backend with CI/CD pipelines and unit tests
 
 ---
 
