@@ -33,13 +33,13 @@ Lead Go developer with strong backend, search and distributed-systems background
 - Developed semantic-graph processing microservices (GraphRAG / OSTIS-style) for semantic workflows; led backend development, code reviews, and production readiness.
 
 ### Fullstack Developer
-**Mar 2026 – May 2026** | [WebDad.by](https://webdad.by) | Brest
+**Mar 2025 – May 2026** | [WebDad.by](https://webdad.by) | Brest
 
 - Developed a Go-based product microservice serving four client applications
 - Designed DB schemas and implemented SQL migrations.
 
 ### Fullstack Developer, ML-Ops 
-**May 2026 – Present** | [Belinnovation.by](https://belinnovation.by)
+**May 2026 – Present** | [Belinnovation.by](https://belinnovation.by) | Brest
 
 - Developed C++/GO search engine paired with Python indexation alorithms for knowledge base management
 - Conducted researches on Medical knowledge to build comprehensive knowledge graph
