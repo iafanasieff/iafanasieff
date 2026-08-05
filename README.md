@@ -2,7 +2,9 @@
 # Wafflelover404 
 ## Afanasieff Ivan
 
-**Email:** afanasieffivan@gmail.com | **LinkedIn:** [https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/](https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/) | **GitHub:** [https://github.com/Wafflelover404](https://github.com/Wafflelover404)
+**Email:** afanasieffivan@gmail.com 
+**LinkedIn:** [https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/](https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/)  
+**GitHub:** [https://github.com/Wafflelover404](https://github.com/Wafflelover404)
 **Telegram:** [https://t.me/wafflelover404](https://t.me/wafflelover404)
 **Location:** Minsk, Belarus
 
