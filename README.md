@@ -25,7 +25,7 @@ Lead Go developer with strong backend, search and distributed-systems background
 
 ## Experience
 
-### Lead Go Developer
+### CTO
 **Jun 2025 – Present** | [WikiAi.by](https://wikiai.by)  | Remote / Minsk
 
 - Designed and implemented backend platform: authentication microservice (Go), Search microservice (C++, Go)
