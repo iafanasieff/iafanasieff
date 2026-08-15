@@ -20,7 +20,7 @@ Lead Go developer with strong backend, search and distributed-systems background
 
 - **Languages:** Go, C++
 - **Databases / Search:** PostgreSQL, Elasticsearch, MongoDB, ChromaDB
-- **Messaging / Streaming:** RabbitMQ
+- **Messaging / Streaming:** RabbitMQ, Apache Kafka
 - **Cloud / Infra:** Docker, Kubernetes, Jenkins, Github, S3, Redis, Prometheus/Graphana
 
 ---
