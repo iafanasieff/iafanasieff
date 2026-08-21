@@ -1,6 +1,7 @@
 
 # Wafflelover404 
 ## Afanasieff Ivan
+## BSU FAMCS student
 
 **Email:** afanasieffivan@gmail.com 
 **LinkedIn:** [https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/](https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/)  
